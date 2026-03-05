@@ -1,10 +1,10 @@
 <h1 align="center">
     <img
-        src="https://assets.dio.me/68BpwSpV4B8xfXd-1zDRCZuyetfxONA0P6-WEvx9EKk/f:webp/h:120/q:80/L3RyYWNrcy9kMmI2MDQ4Ny0wMjExLTRkOTAtYTA2NC1kOGM3YTdhMDc0MGUucG5n"
-        height="45%"
-        width="25%"
-        alt="bootcamp logo"
-        title="bootcamp logo"
+        src="./public/Logo--Bootcamp.png"
+        height="50%"
+        width="250px"
+        alt="logo bootcamp - backend com java e aws"
+        title="logo bootcamp - backend com java e aws"
     />
     <br/>
     * Desafios de Projeto *
